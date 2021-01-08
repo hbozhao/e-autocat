@@ -1,5 +1,5 @@
 # e-autocat
-Core code for the paper "Fictitious Phase Separation in Li Layered Oxides Driven by Electro-Autocatalysis"
+Core matlab code for the paper "Fictitious Phase Separation in Li Layered Oxides Driven by Electro-Autocatalysis"
 
 fp_solver is the solver for the Fokker-Planck equation.
 Use PS_sim to generate the phase diagram of instability (Fig 5d)
